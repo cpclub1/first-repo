@@ -2,4 +2,4 @@
 
 void test();
 
-int MainFunction () {}
+int MAINFUNC () {}
